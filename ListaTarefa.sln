@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListaTarefa.Server", "ListaTarefa.Server\ListaTarefa.Server.csproj", "{B09DF6B9-86DF-4928-A0CE-2729846E067B}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "listatarefa.client", "listatarefa.client\listatarefa.client.esproj", "{7F023FF8-B788-4689-B380-47ED61ACA76A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B09DF6B9-86DF-4928-A0CE-2729846E067B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B09DF6B9-86DF-4928-A0CE-2729846E067B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B09DF6B9-86DF-4928-A0CE-2729846E067B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B09DF6B9-86DF-4928-A0CE-2729846E067B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F023FF8-B788-4689-B380-47ED61ACA76A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F023FF8-B788-4689-B380-47ED61ACA76A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F023FF8-B788-4689-B380-47ED61ACA76A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7F023FF8-B788-4689-B380-47ED61ACA76A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F023FF8-B788-4689-B380-47ED61ACA76A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F023FF8-B788-4689-B380-47ED61ACA76A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47D45FAB-7B42-478C-B397-A202A2DE9C71}
+	EndGlobalSection
+EndGlobal

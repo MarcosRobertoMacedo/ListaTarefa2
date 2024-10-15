@@ -1,0 +1,41 @@
+.task-item {
+    background-color: #f9f9f9; 
+    padding: 15px; 
+    border: 1px solid #ccc; 
+    border-radius: 5px; 
+    margin-bottom: 10px; 
+}
+
+.task-title {
+    margin: 0 0 10px 0; 
+}
+
+.task-description,
+.task-due-date,
+.task-priority {
+    margin: 5px 0; 
+}
+
+.button-container {
+    display: flex; 
+    gap: 10px; 
+}
+
+.button {
+    padding: 10px 15px; 
+    border: none; 
+    border-radius: 5px; 
+    cursor: pointer; 
+}
+
+.button-complete {
+    background-color: #e0f7fa; 
+}
+
+.button-incomplete {
+    background-color: #c8e6c9; 
+}
+
+.button-delete {
+    background-color: #ffcdd2; 
+}

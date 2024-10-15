@@ -1,0 +1,23 @@
+.sorting-container {
+    display: flex; 
+    gap: 10px; 
+    background-color: #f9f9f9; 
+    padding: 20px; 
+    border-radius: 5px; 
+    margin-bottom:10px;
+}
+
+.sorting-button {
+    padding: 10px 15px; 
+    background-color: #e0e0e0; 
+    color: #000000; 
+    border: none; 
+    border-radius: 5px; 
+    cursor: pointer; 
+}
+
+    .sorting-button.active {
+        background-color: #007BFF; 
+        color: #ffffff; 
+        font-weight: bold; 
+    }
